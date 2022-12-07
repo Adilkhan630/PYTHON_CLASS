@@ -1,0 +1,15 @@
+# a={1,2,3,4,4}
+# print(a)
+# a=20
+# b=10
+# print(id(a))
+# myset=set()
+# print(type(myset))
+# print(myset)
+# myset1={}
+# print(type(myset1))
+# print(myset1)
+# dict1=dict()
+# print(dict1)
+# print(type(dict1))
+# dict2={"hydrabad":20,"dehi":30}
